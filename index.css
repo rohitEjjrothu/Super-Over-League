@@ -1,0 +1,18 @@
+/* Write your code here. */
+.bg-cointainer {
+  background-color: #0f172a;
+  width: 150px;
+  padding: 10px;
+  color: #0f172a;
+}
+.heading {
+  background-color: #f8fafc;
+  width: 150px;
+  padding: 10px;
+  color: #f8fafc;
+  font-families: Roboto;
+}
+.images-cointainer {
+}
+.images {
+}
